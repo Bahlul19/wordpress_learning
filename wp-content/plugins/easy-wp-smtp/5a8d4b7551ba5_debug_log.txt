@@ -1,0 +1,48 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: YmFobHVsLnRhdXNpZkBnbWFpbC5jb20=
+CLIENT -> SERVER: d2hhdGZpc3VhdA==
+SMTP ERROR: Password command failed: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsR
+534-5.7.14 FKiSAXJYZs6m0gxhT83_EZ-MeZN8zycChtGVbijLvaKG7dUU_i3rhliINSN6fmvGt7KgyG
+534-5.7.14 gfcAOR36wEFpEg1dfbRoV5Ev3ENWZ0wgMBw0lhwauLHcKwLI4BCyspmftYy2npp8mqOtWr
+534-5.7.14 a4rh3yrLpjrW0pX0Y8pdjSCsNRu8VEgFdPdroKJe0qkmyM3G8z0zdZdlKuuC1ADMs9SxVw
+534-5.7.14 J7PEtpkp_7YN_0SWWogzf70dXVtmA> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 s82sm82160788pfa.151 - gsmtp
+SMTP Error: Could not authenticate.CLIENT -> SERVER: QUIT
+SMTP Error: Could not authenticate.CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: YmFobHVsLnRhdXNpZkBnbWFpbC5jb20=
+CLIENT -> SERVER: d2hhdGZpc3VhdA==
+SMTP ERROR: Password command failed: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvV
+534-5.7.14 mL-3NiC5GMPzGJ7lT0auXmSWYWQxQwA-w69325JHEOxZCEtu-zH6g2ldfXUUIWOvyL9sk4
+534-5.7.14 d9zOJi0Nw47JF4o7cnqP4b9NRWtNtkUKMwbNrSDM5Vm9t99DD8E7qEbxdXQaVGD1hQxbWM
+534-5.7.14 fHypWabJd8-En0mMX0fbkFbQRnkTCfVobcQmBziunp5UXjxaxsTiGX1l83aGwfjbG3_2R9
+534-5.7.14 3VjI2VnCPdVtWZ_OXcg3q9rnyLZPs> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 186sm61637441pfe.2 - gsmtp
+SMTP Error: Could not authenticate.CLIENT -> SERVER: QUIT
+SMTP Error: Could not authenticate.CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: YmFobHVsLnRhdXNpZkBnbWFpbC5jb20=
+CLIENT -> SERVER: d2hhdGZpc3VhdA==
+SMTP ERROR: Password command failed: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvq
+534-5.7.14 Nn1k2csOQSdrlLNgZcdrXr8JTR21evt9Tn96BVtPHvDNzOyBgi4iQ0UnPf3TkXAp64MRDH
+534-5.7.14 -Px_b3wBHWu9YYTa_pDK-n6fjxZTBKJ-v_MdzRCeT-Uk9PlcOI71hBc5E8fXA2hcbIOKpG
+534-5.7.14 3nIH1KvDZVUqVmFTsbXrEt9v6e4nxHC6FgWyG4OHjw-wjY8i1vnAjVxuzQhRMPED0VXplK
+534-5.7.14 1qbaZOdWNEkGwL36KJWX8BLGhugUY> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 g9sm15144371pgo.22 - gsmtp
+SMTP Error: Could not authenticate.CLIENT -> SERVER: QUIT
+SMTP Error: Could not authenticate.
